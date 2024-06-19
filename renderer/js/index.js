@@ -72,9 +72,9 @@ new Vue({
             loadingTableList: false,
             loadingTable: false,
 
-            eachPageSurperTable: 20,
+            eachPageSurperTable: 30,
             currentPageSurperTable: 1,
-            eachPageTable: 20,
+            eachPageTable: 30,
             currentPageTable: 1,
 
             addDBDialogLinkKey: 0,
